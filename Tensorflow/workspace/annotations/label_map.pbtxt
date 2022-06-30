@@ -1,0 +1,20 @@
+item {
+  name: "checkbox"
+  id: 1
+}
+item {
+  name: "radio"
+  id: 2
+}
+item {
+  name: "dropdown"
+  id: 3
+}
+item {
+  name: "input"
+  id: 4
+}
+item {
+  name: "checkbox_with_text"
+  id: 5
+}
